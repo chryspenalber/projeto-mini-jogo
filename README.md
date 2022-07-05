@@ -6,7 +6,7 @@ Projeto executado com base nas aulas do Tech Academy da StartSe.
 
 Para esse projeto, foram utilizadas as linguagens HTML, Javascript e CSS para estilos.
 
-## Link para visualizar no navegador
+## Visualizar no navegador
 
 [Mini Jogo](https://chryspenalber.github.io/projeto-mini-jogo/index.html)
 
