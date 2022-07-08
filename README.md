@@ -14,7 +14,7 @@ Para esse projeto, foram utilizadas as linguagens HTML, Javascript e CSS para es
 
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
-[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
+[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/index.html)
 
 [Android](https://chryspenalber.github.io/projeto-android/android.html)
 
